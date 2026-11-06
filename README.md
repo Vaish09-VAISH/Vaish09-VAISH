@@ -35,4 +35,4 @@ VS Code • Git • GitHub • Supabase
 
 ---
 
-⭐ Always learning, always building.
+⭐ Learn,build,apply....
