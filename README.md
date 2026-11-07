@@ -1,29 +1,17 @@
-<table width="100%" bgcolor="#0d1117" style="background-color: #0d1117; color: #c9d1d9; border-collapse: collapse; border: none;">
-<tr>
-<td style="padding: 24px; border: none;">
+# Hi there, I'm Vaishnavi G 👋
 
-<div align="center">
+---
 
-<h1 style="color: #58a6ff; border-bottom: none;">Hi there, I'm Vaishnavi G 👋</h1>
+## 💫 About Me
+> Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
 
-</div>
+- 🔭 **Focus:** Full Stack Development & Backend Concepts
+- 🌱 **Learning:** Open Source Contribution & AI Integrations
+- ⚡ **Motto:** Learn, build, apply...
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;" />
+---
 
-<h3 style="color: #79c0ff;">💫 About Me</h3>
-<blockquote style="color: #8b949e; border-left: 4px solid #30363d; padding-left: 10px;">
-  Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
-</blockquote>
-
-<ul>
-  <li>🔭 <b>Focus:</b> Full Stack Development & Backend Concepts</li>
-  <li>🌱 <b>Learning:</b> Open Source Contribution & AI Integrations</li>
-  <li>⚡ <b>Motto:</b> Learn, build, apply...</li>
-</ul>
-
-<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;" />
-
-<h3 style="color: #79c0ff;">🚀 Skills & Tools</h3>
+## 🚀 Skills & Tools
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -38,13 +26,28 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
-<hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;" />
+---
 
-<h3 style="color: #79c0ff;">📁 Featured Repositories</h3>
+## 📁 Featured Repositories
 
-<table width="100%" style="border-collapse: collapse; background-color: #161b22;">
-  <thead>
-    <tr style="border-bottom: 1px solid #30363d;">
-      <th align="left" style="color: #f0f6fc; padding: 8px;">Repository</th>
-      <th align="center" style="color: #f0f6fc; padding: 8px;">Tech Stack</th>
-      <th align="right" style="color: #f0f6fc; padding: 8px;">Link
+| Repository | Tech Stack | Link |
+| :--- | :---: | :--- |
+| **linkloom** | `TypeScript` | [View Project](https://github.com/Vaish09-VAISH/linkloom) |
+| **artician-loom** | `TypeScript` | [View Project](https://github.com/Vaish09-VAISH/artician-loom) |
+| **Marketplace-frontend** | `JavaScript` | [View Project](https://github.com/Vaish09-VAISH/Marketplace-frontend) |
+| **ivc-workshop-demo** | `Git / Demo` | [View Project](https://github.com/Vaish09-VAISH/ivc-workshop-demo) |
+
+---
+
+## 📈 Real-Time GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaish09-VAISH&theme=dark&show_icons=true&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish09-VAISH&theme=dark&hide_border=true&layout=compact" width="48%" />
+</p>
+
+---
+
+<p align="center">
+  <sub>⭐ Learn, build, apply...</sub>
+</p>
