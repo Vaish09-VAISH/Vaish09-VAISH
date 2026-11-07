@@ -1,54 +1,32 @@
-# Hi there, I'm Vaishnavi G 👋
+<div align="center" style="background-color: #0d1117; color: #c9d1d9; padding: 25px; border-radius: 12px; border: 1px solid #30363d;">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=61AFEF&center=true&vCenter=true&width=500&lines=Learn+•+Build+•+Apply;Passionate+Developer;Full+Stack+%26+Backend" alt="Typing SVG" />
-</p>
+  <h1 style="color: #58a6ff; margin-bottom: 5px;">Vaishnavi G</h1>
+  <p style="color: #8b949e; font-style: italic;">⭐ Learn, build, apply...</p>
 
----
+  <hr style="border: 0; height: 1px; background: #30363d; margin: 20px 0;" />
 
-## 💫 About Me
-> Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
+  <h3 align="left" style="color: #79c0ff;">👋 About Me</h3>
+  <p align="left" style="line-height: 1.6;">
+    Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
+  </p>
 
-- 🔭 **Focus:** Full Stack Development & Backend Concepts
-- 🌱 **Learning:** Open Source Contribution & Modern Web Frameworks
-- ⚡ **Motto:** Learn, build, apply...
+  <h3 align="left" style="color: #79c0ff;">🚀 Skills &amp; Tools</h3>
+  <p align="left">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python,c,ts,js,vscode,git,github,supabase&theme=dark" alt="Skills" />
+    </a>
+  </p>
 
----
+  <h3 align="left" style="color: #79c0ff;">📚 Currently Learning</h3>
+  <ul align="left" style="line-height: 1.8;">
+    <li>Full Stack Development</li>
+    <li>Backend Concepts</li>
+    <li>Open Source Contribution</li>
+  </ul>
 
-## 🚀 Skills & Tools
+  <h3 align="left" style="color: #79c0ff;">📈 GitHub Stats</h3>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=Vaish09-VAISH&theme=dark&show_icons=true&hide_border=true" width="90%" alt="GitHub Stats" />
+  </p>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,ts,js,vscode,git,github,supabase&theme=dark" alt="Skills" />
-  </a>
-</p>
-
----
-
-## 📁 Featured Repositories
-
-| Repository | Stack | Link |
-| :--- | :---: | :--- |
-| **linkloom** | `TypeScript` | [View Project](https://github.com/Vaish09-VAISH/linkloom) |
-| **artician-loom** | `TypeScript` | [View Project](https://github.com/Vaish09-VAISH/artician-loom) |
-| **Marketplace-frontend** | `JavaScript` | [View Project](https://github.com/Vaish09-VAISH/Marketplace-frontend) |
-| **ivc-workshop-demo** | `Git / Demo` | [View Project](https://github.com/Vaish09-VAISH/ivc-workshop-demo) |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vaish09-VAISH&theme=dark&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaish09-VAISH&theme=dark&hide_border=true&layout=compact" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaish09-VAISH&theme=dark&hide_border=true" width="97%" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <sub>⭐ Learn, build, apply...</sub>
-</p>
+</div>
